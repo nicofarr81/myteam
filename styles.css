@@ -1,18 +1,28 @@
 .navbar-light .navbar-brand {
-    color: #009556;
+  color: #009556;
 }
 .jumbotron {
-  background-image: url(stadium2.jpg);
+  background-image: url(stadium3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 .jumbotron img {
-    width: 500px
+  width: 500px
 }
-.carousel img
+.carousel-item img
 {
-    width: 400px
+  width: 400px
 }
 table {
   text-align: left;
+}
+a {
+  color: black;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-style: normal;
+}
+.footer {
+  text-align: center;
 }
